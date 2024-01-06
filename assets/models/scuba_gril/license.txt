@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kitasan Black
+* source:	https://sketchfab.com/3d-models/kitasan-black-fda8f645641744e4a53ebeebfb2513fd
+* author:	Flying Cat (https://sketchfab.com/davidfajar14)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kitasan Black" (https://sketchfab.com/3d-models/kitasan-black-fda8f645641744e4a53ebeebfb2513fd) by Flying Cat (https://sketchfab.com/davidfajar14) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
